@@ -1,5 +1,4 @@
 ---
-title: Random thoughts
 layout: page
 ---
 

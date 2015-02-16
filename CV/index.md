@@ -12,7 +12,7 @@ Manhattan, KS 66502
 
 <i class="fa fa-home"></i> <http://lidan.net/>
 
-### Education Background
+### Education
 
 - 2014, Ph.D. in Media, Technology, and Society, Northwestern University
 - 2005, Master of Arts in Mass Communication, Marquette Unviersity
@@ -39,7 +39,7 @@ Manhattan, KS 66502
 
 1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data. Manhattan, KS: The IDEA Center.
 
-### Conference presentations
+### Conference Presentations
 
 1. Benton, S. L., Brown, R., & **Li, D.** (August, 2013). Which learning outcomes and teaching methods are instructors really emphasizing in STEM courses? Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
 1. Benton, S. L., Guo, M., Gross, A., & **Li, D.** (2013, April). Student ratings, teacher standards, and critical thinking skills. . Paper presented at the annual meeting of the American Educational Research Association, San Francisco.
@@ -79,11 +79,12 @@ Profs. Steven Goldzwig, Jean Grow, and Joyce Wolburg, College of Communication
 - Collected and analyzed quantitative and qualitative data for multiple projects
 
 **Research Assistant**: Marquette University, 2003 – 2005
-Profs. Michael Havice, College of Communication
+
+Prof. Michael Havice, College of Communication
 
 - Analyzed statistical data for a comparative study on impacts of pedagogical interventions on BREC students' confidence levels and self-assessment
 - Designed lesson units and exercises for MATHPLUS, an educational project aiming to improve urban Milwaukee African-American students' (6th-8th graders) mathematical performance by involving them in extracurricular multimedia math lessons
-- Worked on an education project investigating whether Problem-Based Learning (PBL), Situated Learning (SL), Pervasive Networking Applications (PNA), and a Personal Data Assistant (PDA) can improve mathematics achievements among Milwaukee Public School 6-8th graders
+- Worked on an education project investigating whether Problem-Based Learning (PBL), Situated Learning (SL), Pervasive Networking Applications (PNA), and a Personal Data Assistant (PDA) can improve mathematics achievements among Milwaukee Public School 6th-8th graders
 
 ### Teachign Experience
 
@@ -118,6 +119,7 @@ Profs. Michael Havice, College of Communication
     *Prof. Elaine Yuan, Dept. of Communication Studies*
 
 ### Award, grants, and fellowships
+
 - Graduate Fellowship (2008 – 2009), Northwestern University.
 - Communication Studies Travel Grant (2007 – 2008), Northwestern University.
 - Northwestern Graduate School Travel Grant (2007 – 2008), Northwestern University.
