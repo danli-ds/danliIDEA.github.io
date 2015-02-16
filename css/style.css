@@ -5,7 +5,7 @@ body
 {
   color:#2c3e50;
   /*background-color:#f0f0f0;*/
-  /*background-color: #f8f8f8;*/
+  background-color: #f8f8f8;
   width:100%;
   /*border-top:solid #d90006;*/
   /*border-width:4px*/
@@ -41,7 +41,8 @@ h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover
 p
 {
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
-  font-weight:200
+  /*font-weight:200*/
+  line-height: 1.5;
 }
 
 .posts
@@ -92,7 +93,7 @@ p
 {
   margin-left:-250px;
   left:250px;
-  width:250px;
+  width:254px;
   background:#2C3E50;
   position:fixed;
   height:100%;
@@ -102,7 +103,7 @@ p
   /*border-top:solid #d90006;*/
   border-right: solid #29BCBB;
   /*transition:all .2s ease 0;*/
-  border-width:5px
+  border-width:4px
 }
 
 .sidebar-nav
@@ -117,13 +118,11 @@ p
 
 .sidebar-nav li
 {
-  line-height:30px;
+  line-height:40px;
   text-indent:40px;
   font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:200;
-/*  color:#9c9c9c;*/
   color:#fff;
-  /*text-shadow:1px 1px #fff*/
 }
 
 .sidebar-nav li a
@@ -136,9 +135,9 @@ p
 .sidebar-nav li a:hover
 {
   color:#000;
-  background:#fff;
+  background:#29BCBB;
   text-decoration:none;
-  transition:all .2s ease 0
+/*  transition:all .2s ease 0*/
 }
 
 .sidebar-nav li a:active,.sidebar-nav li a:focus
@@ -167,7 +166,7 @@ p
 
 .brand
 {
-  font-weight:800;
+  font-weight:700;
   color:#fff;
   font-family:"Helvetica Neue", helvetica, "Open Sans",sans-serif;
   font-size:1.4em;
@@ -423,9 +422,8 @@ img
 time
 {
   color:#c9c9c9;
-  font-family:"Helvetica Neue", helvetica, "Open Sans", sans-serif;
+  font-family:georgia, "Helvetica Neue", helvetica, "Open Sans", sans-serif;
   font-weight:100;
-  text-shadow:1px 1px #fff
 }
 
 .pager li > a,.pager li > span
