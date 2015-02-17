@@ -29,7 +29,7 @@ Manhattan, KS 66502
 
 1. Benton, S. L., **Li, D.**, & Brown, R. (2014). Transactional distance in online graduate courses at doctoral institutions. *Journal of Online Doctoral Education*, 1(*1*), 41-55.
 1. Benton, S. L., **Li, D.**, Gross, A., Pallett, W. H., & Webster, R. J. (2013). Transactional distance and student ratings in online college courses. *American Journal of Distance Education*, 27(*4*), 207-217.
-1. **Li, D.**, & Walejko, G. (2008). Splogs and abandoned blogs: The perils of sampling bloggers and their blogs. **Information, Communication and Society**, 11(*2*), 279-296.
+1. **Li, D.**, & Walejko, G. (2008). Splogs and abandoned blogs: The perils of sampling bloggers and their blogs. *Information, Communication and Society*, 11(*2*), 279-296.
 
 #### Invited article
 
