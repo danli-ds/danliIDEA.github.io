@@ -16,18 +16,22 @@ Manhattan, KS 66502
 ### Education
 
 Ph.D., Media, Technology, and Society, 2014
+
 Northwestern University
 
 M.A., Mass Communication, 2005
+
 Marquette Unviersity
 
 B.A., Journalism, 2002
+
 Huazhong University of Science and Technology
 
 ### Employment
 
-- 2011 ~ present Research Associate, The IDEA Center
-- 2011 - 2012: Compliance auditor, Kansas State University
+Research Associate, The IDEA Center, 2011 ~ present
+
+Compliance auditor, Kansas State University, 2011 - 2012
 
 ### Publications
 
@@ -58,7 +62,7 @@ Huazhong University of Science and Technology
 1. Ann, S. J., & **Li, D.** (2007). “Social Networking Circuit: The Interaction between College Students' Online and Offline Social Networking Activities.” Workshop on Public Practices, Social Software: Examining Social Practices in Networked Publics at the Third International Conference on
 Communities and Technologies, East Lansing, MI. June 28.
 
-#### Technical reports
+#### Technical report
 
 1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data. Manhattan, KS: The IDEA Center.
 
