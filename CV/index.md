@@ -3,6 +3,7 @@ layout: page
 title: Dan Li
 ---
 ### Contact Information
+The IDEA Center
 
 301 South Fourth Street, Suite 200
 
@@ -14,11 +15,16 @@ Manhattan, KS 66502
 
 ### Education
 
-- 2014, Ph.D. in Media, Technology, and Society, Northwestern University
-- 2005, Master of Arts in Mass Communication, Marquette Unviersity
-- 2002, Bachelor of Arts in Journalism, Huazhong University of Science and Technology
+Ph.D., Media, Technology, and Society, 2014
+Northwestern University
 
-### Professional Experience
+M.A., Mass Communication, 2005
+Marquette Unviersity
+
+B.A., Journalism, 2002
+Huazhong University of Science and Technology
+
+### Employment
 
 - 2011 ~ present Research Associate, The IDEA Center
 - 2011 - 2012: Compliance auditor, Kansas State University
@@ -29,15 +35,11 @@ Manhattan, KS 66502
 
 1. Benton, S. L., **Li, D.**, & Brown, R. (2014). Transactional distance in online graduate courses at doctoral institutions. *Journal of Online Doctoral Education*, 1(*1*), 41-55.
 1. Benton, S. L., **Li, D.**, Gross, A., Pallett, W. H., & Webster, R. J. (2013). Transactional distance and student ratings in online college courses. *American Journal of Distance Education*, 27(*4*), 207-217.
-1. **Li, D.**, & Walejko, G. (2008). Splogs and abandoned blogs: The perils of sampling bloggers and their blogs. **Information, Communication and Society**, 11(*2*), 279-296.
+1. **Li, D.**, & Walejko, G. (2008). Splogs and abandoned blogs: The perils of sampling bloggers and their blogs. *Information, Communication and Society*, 11(*2*), 279-296.
 
 #### Invited article
 
 1. Benton, S. L. & **Li, D.** (in press). Professional development for online adjunct faculty: The chair’s role. *The Department Chair*.
-
-#### Technical reports
-
-1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data. Manhattan, KS: The IDEA Center.
 
 ### Conference Presentations
 
@@ -55,6 +57,10 @@ Manhattan, KS 66502
 1. **Li, D.** (2007). “Why Do You Blog: A Uses-and-Gratifications Inquiry into Bloggers’ Motivations.” 57th Annual Conference of the International Communication Association, San Francisco, CA, May 24-28.
 1. Ann, S. J., & **Li, D.** (2007). “Social Networking Circuit: The Interaction between College Students' Online and Offline Social Networking Activities.” Workshop on Public Practices, Social Software: Examining Social Practices in Networked Publics at the Third International Conference on
 Communities and Technologies, East Lansing, MI. June 28.
+
+#### Technical reports
+
+1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data. Manhattan, KS: The IDEA Center.
 
 ### Research Experience
 
@@ -86,7 +92,7 @@ Prof. Michael Havice, College of Communication
 - Designed lesson units and exercises for MATHPLUS, an educational project aiming to improve urban Milwaukee African-American students' (6th-8th graders) mathematical performance by involving them in extracurricular multimedia math lessons
 - Worked on an education project investigating whether Problem-Based Learning (PBL), Situated Learning (SL), Pervasive Networking Applications (PNA), and a Personal Data Assistant (PDA) can improve mathematics achievements among Milwaukee Public School 6th-8th graders
 
-### Teachign Experience
+### Teaching Experience
 
 - Teaching Assistant: Political Communication
 
@@ -118,7 +124,7 @@ Prof. Michael Havice, College of Communication
 
     *Prof. Elaine Yuan, Dept. of Communication Studies*
 
-### Award, grants, and fellowships
+### Awards
 
 - Graduate Fellowship (2008 – 2009), Northwestern University.
 - Communication Studies Travel Grant (2007 – 2008), Northwestern University.
@@ -130,7 +136,15 @@ Prof. Michael Havice, College of Communication
 
 ### Service
 
+<<<<<<< HEAD
+Reviewer, Journal of Computer-Mediated Communication
+Review, Information, Communication and Society
+=======
 Reviewer
 
 - Journal of Computer-Mediated Communication
 - Information, Communication and Society
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
+=======
+>>>>>>> FETCH_HEAD
