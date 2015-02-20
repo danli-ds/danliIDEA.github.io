@@ -15,17 +15,11 @@ Manhattan, KS 66502
 
 ### Education
 
-Ph.D., Media, Technology, and Society, 2014
+- Ph.D., Media, Technology, and Society, Northwestern University, 2014
 
-Northwestern University
+- M.A., Mass Communication, Marquette Unviersity, 2005
 
-M.A., Mass Communication, 2005
-
-Marquette Unviersity
-
-B.A., Journalism, 2002
-
-Huazhong University of Science and Technology
+- B.A., Journalism, Huazhong University of Science and Technology, 2002
 
 ### Employment
 
@@ -140,18 +134,5 @@ Prof. Michael Havice, College of Communication
 
 ### Service
 
-<<<<<<< HEAD
 Reviewer, Journal of Computer-Mediated Communication
-Review, Information, Communication and Society
-=======
-Reviewer
-
-- Journal of Computer-Mediated Communication
-- Information, Communication and Society
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> FETCH_HEAD
-=======
->>>>>>> FETCH_HEAD
-=======
->>>>>>> FETCH_HEAD
+Reviewer, Information, Communication and Society
