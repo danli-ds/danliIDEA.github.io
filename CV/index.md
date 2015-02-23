@@ -37,7 +37,7 @@ Compliance auditor, Kansas State University, 2011 - 2012
 #### Invited articles
 
 1. Benton, S. L. & **Li, D.** (in press). Professional development for online adjunct faculty: The chair’s role. *The Department Chair*.
-2. 1. Benton, S. L., **Li, D.**, & Brown, R. (2014). Transactional distance in online graduate courses at doctoral institutions. *Journal of Online Doctoral Education*, 1(*1*), 41-55.
+1. Benton, S. L., **Li, D.**, & Brown, R. (2014). Transactional distance in online graduate courses at doctoral institutions. *Journal of Online Doctoral Education*, 1(*1*), 41-55.
 
 
 ### Conference Presentations
@@ -136,5 +136,5 @@ Prof. Michael Havice, College of Communication
 
 ### Service
 
-Reviewer, Journal of Computer-Mediated Communication
-Reviewer, Information, Communication and Society
+- Reviewer, Journal of Computer-Mediated Communication
+- Reviewer, Information, Communication and Society
