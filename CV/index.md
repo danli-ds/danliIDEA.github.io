@@ -31,26 +31,27 @@ Compliance auditor, Kansas State University, 2011 - 2012
 
 #### Peer-reviewed journal articles
 
-1. Benton, S. L., **Li, D.**, & Brown, R. (2014). Transactional distance in online graduate courses at doctoral institutions. *Journal of Online Doctoral Education*, 1(*1*), 41-55.
 1. Benton, S. L., **Li, D.**, Gross, A., Pallett, W. H., & Webster, R. J. (2013). Transactional distance and student ratings in online college courses. *American Journal of Distance Education*, 27(*4*), 207-217.
 1. **Li, D.**, & Walejko, G. (2008). Splogs and abandoned blogs: The perils of sampling bloggers and their blogs. *Information, Communication and Society*, 11(*2*), 279-296.
 
-#### Invited article
+#### Invited articles
 
 1. Benton, S. L. & **Li, D.** (in press). Professional development for online adjunct faculty: The chair’s role. *The Department Chair*.
+2. 1. Benton, S. L., **Li, D.**, & Brown, R. (2014). Transactional distance in online graduate courses at doctoral institutions. *Journal of Online Doctoral Education*, 1(*1*), 41-55.
+
 
 ### Conference Presentations
 
-1. Benton, S. L., Brown, R., & **Li, D.** (August, 2013). Which learning outcomes and teaching methods are instructors really emphasizing in STEM courses? Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
-1. Benton, S. L., Guo, M., Gross, A., & **Li, D.** (2013, April). Student ratings, teacher standards, and critical thinking skills. . Paper presented at the annual meeting of the American Educational Research Association, San Francisco.
-1. Benton, S. L., **Li, D.**, & Pallett, W. (August, 2013). In higher education, class size matters. Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
-1. Benton, S. L., Webster, R., Gross, A., & Pallett, W. H., & **Li, D.** (2013, April). Instructor and student perceptions of course experiences in online and face-to-face classes. Paper presented at the meeting of the American Educational Research Association, San Francisco.
-1. Ryalls, K. R., **Li, D.**, & Kinzie, J. (2013, November). Integrating IDEA Teaching Methods with NSSE’s Engagement Indicators. Papre presented at the 38th Annual POD Conference, Pittsburg, pennsylvania. 
-1. Benton, S. L., **Li, D.**, & Brown, R. (2014, August). Teaching methods associated with student progress in first-year STEM courses. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
-1. Benton, S. L., **Li, D.**, & Goodyear, R. K. (2014, August). Effective leadership in the assessment of learning outcomes. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
-1. Benton, S. L., **Li, D.**, & Brown, R. (2014, November). Which teaching methods are related to student progress in introductory STEM courses? Presentation at Association of American Colleges and Universities Transforming STEM in Higher Education Conference, Atlanta.
 1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). Internationalization of IDEA systems: Bringing IDEA to Saudi Arabia. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
 1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). The past, present, and future of The IDEA Center. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
+1. Benton, S. L., **Li, D.**, & Brown, R. (2014, November). Which teaching methods are related to student progress in introductory STEM courses? Presentation at Association of American Colleges and Universities Transforming STEM in Higher Education Conference, Atlanta.
+1. Benton, S. L., **Li, D.**, & Brown, R. (2014, August). Teaching methods associated with student progress in first-year STEM courses. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
+1. Benton, S. L., **Li, D.**, & Goodyear, R. K. (2014, August). Effective leadership in the assessment of learning outcomes. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
+1. Benton, S. L., **Li, D.**, & Pallett, W. (2013, August). In higher education, class size matters. Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
+1. Benton, S. L., Brown, R., & **Li, D.** (2013, August). Which learning outcomes and teaching methods are instructors really emphasizing in STEM courses? Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
+1. Ryalls, K. R., **Li, D.**, & Kinzie, J. (2013, November). Integrating IDEA Teaching Methods with NSSE’s Engagement Indicators. Papre presented at the 38th Annual POD Conference, Pittsburg, pennsylvania. 
+1. Benton, S. L., Guo, M., Gross, A., & **Li, D.** (2013, April). Student ratings, teacher standards, and critical thinking skills. . Paper presented at the annual meeting of the American Educational Research Association, San Francisco.
+1. Benton, S. L., Webster, R., Gross, A., & Pallett, W. H., & **Li, D.** (2013, April). Instructor and student perceptions of course experiences in online and face-to-face classes. Paper presented at the meeting of the American Educational Research Association, San Francisco.
 1. **Li, D.** (2008). “By the People, For the People: Citizen Journalistic Practices on Wikinews.” 94th Annual Convention of the National Communication Association, San Diego, CA, November 21-24.
 1. **Li, D.**, & Walejko, G. (2007). Abandoned Blogs and Splogs: The Perils of Sampling Bloggers. Annual conference of the Association of Internet Researchers, Vancouver, Canada, October 17-20.
 1. **Li, D.** (2007). “Why Do You Blog: A Uses-and-Gratifications Inquiry into Bloggers’ Motivations.” 57th Annual Conference of the International Communication Association, San Francisco, CA, May 24-28.
