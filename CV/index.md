@@ -42,6 +42,7 @@ Compliance auditor, Kansas State University, 2011 - 2012
 
 ### Conference Presentations
 
+1. Benton, S. L., & **Li, D.** (2015, April). Course circumstances and teaching methods related to student ratings. Paper presented at the meeting of the American Educational Research Association, Chicago.
 1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). Internationalization of IDEA systems: Bringing IDEA to Saudi Arabia. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
 1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). The past, present, and future of The IDEA Center. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
 1. Benton, S. L., **Li, D.**, & Brown, R. (2014, November). Which teaching methods are related to student progress in introductory STEM courses? Presentation at Association of American Colleges and Universities Transforming STEM in Higher Education Conference, Atlanta.
