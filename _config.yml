@@ -11,5 +11,5 @@ github_username:  danliIDEA
 
 # Build settings
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
