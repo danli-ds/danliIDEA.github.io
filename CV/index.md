@@ -25,7 +25,7 @@ Manhattan, KS 66502
 
 Research Associate, The IDEA Center, 2011 ~ present
 
-Compliance auditor, Kansas State University, 2011 - 2012
+Compliance Auditor, Kansas State University, 2011 - 2012
 
 ### Publications
 
@@ -36,11 +36,11 @@ Compliance auditor, Kansas State University, 2011 - 2012
 
 #### Invited articles
 
-1. Benton, S. L. & **Li, D.** (in press). Professional development for online adjunct faculty: The chair’s role. *The Department Chair*.
+1. Benton, S. L. & **Li, D.** (2015). Professional development for online adjunct faculty: The chair’s role. *The Department Chair*, *26*, 1-3.
 1. Benton, S. L., **Li, D.**, & Brown, R. (2014). Transactional distance in online graduate courses at doctoral institutions. *Journal of Online Doctoral Education*, 1(*1*), 41-55.
 
 
-### Conference Presentations
+### Conference presentations
 
 1. Benton, S. L., & **Li, D.** (2015, April). Course circumstances and teaching methods related to student ratings. Paper presented at the meeting of the American Educational Research Association, Chicago.
 1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). Internationalization of IDEA systems: Bringing IDEA to Saudi Arabia. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
@@ -61,9 +61,14 @@ Communities and Technologies, East Lansing, MI. June 28.
 
 #### Research and Technical reports
 
-1. Benton, S. L., & **Li, D.** (in press). IDEA Research Report No. 9, Teaching Methods Associated with Student Progress in General Education Courses. Manhattan, KS: The IDEA Center.
+1. Benton, S. L., & **Li, D.** (2015). IDEA Research Report No. 9, Teaching Methods Associated with Student Progress in General Education Courses. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., & **Li, D.** (2015). IDEA Research Report #8: Validity and reliability of IDEA Teaching Essentials. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data. Manhattan, KS: The IDEA Center.
+
+#### Editorial notes
+
+1. Ryalls, K. R., Benton, S. L., Barr, J., & **Li, D.** (2016). Response to “Bias Against Female Instructors.” The IDEA Center: Manhattan, KS.
+1. Benton, S. L., & **Li, D.** (2015). Response to “A Better Way to Evaluate Undergraduate Teaching.” The IDEA Center: Manhattan, KS.
 
 ### Research Experience
 
