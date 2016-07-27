@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dan Li
+title: Dan Li, Ph.D.
 ---
 ### Contact Information
 The IDEA Center
