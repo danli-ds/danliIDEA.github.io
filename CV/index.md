@@ -61,7 +61,7 @@ Communities and Technologies, East Lansing, MI. June 28.
 
 #### Research and Technical reports
 
-1. Benton, S. L., **Li, D.**, Brown, R., & Sullivan, P. (In press). IDEA Technical Report No. 19: Analysis of IDEA Student Ratings of Instruction System, 2015 Pilot Data. Manhattan, KS: The IDEA Center.
+1.  **Li, D.**, Benton, S. L., Brown, R., Ryalls, K. R., & Sullivan, P. (2016). IDEA Technical Report No. 19: Analysis of IDEA Student Ratings of Instruction System, 2015 Pilot Data. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., & **Li, D.** (2015). IDEA Research Report No. 9, Teaching Methods Associated with Student Progress in General Education Courses. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., & **Li, D.** (2015). IDEA Research Report #8: Validity and reliability of IDEA Teaching Essentials. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data. Manhattan, KS: The IDEA Center.
