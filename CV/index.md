@@ -58,12 +58,16 @@ Manhattan, KS 66502
 1. **Li, D.** (2007, May). *Why Do You Blog: A Uses-and-Gratifications Inquiry into Bloggers’ Motivations.* Paper presented at the 57th Annual Conference of the International Communication Association, San Francisco, CA.
 1. Ann, S. J., & **Li, D.** (2007, June). *Social Networking Circuit: The Interaction between College Students' Online and Offline Social Networking Activities.* Paper presented at the Workshop on Public Practices, Social Software: Examining Social Practices in Networked Publics at the Third International Conference on Communities and Technologies, East Lansing, MI.
 
-#### Research and Technical reports
+#### Research and technical reports
 
 1.  **Li, D.**, Benton, S. L., Brown, R., Ryalls, K. R., & Sullivan, P. (2016). *IDEA Technical Report No. 19: Analysis of IDEA Student Ratings of Instruction System, 2015 Pilot Data*. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., & **Li, D.** (2015). *IDEA Research Report No. 9, Teaching Methods Associated with Student Progress in General Education Courses*. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., & **Li, D.** (2015). *IDEA Research Report No. 8: Validity and reliability of IDEA Teaching Essentials*. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). *IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data*. Manhattan, KS: The IDEA Center.
+
+#### Research notes
+
+1. **Li, D.**, & Benton, S. L. (2017). *Non-response rates to individual items on the IDEA Student Ratings of Instruction forms* (Research Note No. 5). Manhattan, KS: The IDEA Center.
 
 #### Editorial notes
 
