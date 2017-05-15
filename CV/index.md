@@ -72,8 +72,8 @@ Manhattan, KS 66502
 
 #### Editorial notes
 
-1. Ryalls, K. R., Benton, S. L., Barr, J., & **Li, D.** (2016). *Response to “Bias Against Female Instructors”* The IDEA Center: Manhattan, KS.
-1. Benton, S. L., & **Li, D.** (2015). *Response to “A Better Way to Evaluate Undergraduate Teaching”* The IDEA Center: Manhattan, KS.
+1. Ryalls, K. R., Benton, S. L., Barr, J., & **Li, D.** (2016). *Response to “Bias Against Female Instructors”*. Manhattan, KS: The IDEA Center.
+1. Benton, S. L., & **Li, D.** (2015). *Response to “A Better Way to Evaluate Undergraduate Teaching”*. Manhattan, KS: The IDEA Center.
 
 ### Research Experience
 
