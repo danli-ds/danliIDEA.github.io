@@ -42,34 +42,33 @@ Manhattan, KS 66502
 
 ### Conference presentations
 
-1. Benton, S. L., & **Li, D.** (2015, April). Course circumstances and teaching methods related to student ratings. Paper presented at the meeting of the American Educational Research Association, Chicago.
-1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). Internationalization of IDEA systems: Bringing IDEA to Saudi Arabia. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
-1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). The past, present, and future of The IDEA Center. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
-1. Benton, S. L., **Li, D.**, & Brown, R. (2014, November). Which teaching methods are related to student progress in introductory STEM courses? Presentation at Association of American Colleges and Universities Transforming STEM in Higher Education Conference, Atlanta.
-1. Benton, S. L., **Li, D.**, & Brown, R. (2014, August). Teaching methods associated with student progress in first-year STEM courses. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
-1. Benton, S. L., **Li, D.**, & Goodyear, R. K. (2014, August). Effective leadership in the assessment of learning outcomes. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
-1. Benton, S. L., **Li, D.**, & Pallett, W. (2013, August). In higher education, class size matters. Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
-1. Benton, S. L., Brown, R., & **Li, D.** (2013, August). Which learning outcomes and teaching methods are instructors really emphasizing in STEM courses? Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
-1. Ryalls, K. R., **Li, D.**, & Kinzie, J. (2013, November). Integrating IDEA Teaching Methods with NSSE’s Engagement Indicators. Papre presented at the 38th Annual POD Conference, Pittsburg, pennsylvania. 
-1. Benton, S. L., Guo, M., **Li, D.**, & Gross, A. (2013, April). Student ratings, teacher standards, and critical thinking skills. Paper presented at the annual meeting of the American Educational Research Association, San Francisco.
-1. Benton, S. L., Webster, R., Gross, A., & Pallett, W. H., & **Li, D.** (2013, April). Instructor and student perceptions of course experiences in online and face-to-face classes. Paper presented at the meeting of the American Educational Research Association, San Francisco.
-1. **Li, D.** (2008). “By the People, For the People: Citizen Journalistic Practices on Wikinews.” 94th Annual Convention of the National Communication Association, San Diego, CA, November 21-24.
-1. **Li, D.**, & Walejko, G. (2007). Abandoned Blogs and Splogs: The Perils of Sampling Bloggers. Annual conference of the Association of Internet Researchers, Vancouver, Canada, October 17-20.
-1. **Li, D.** (2007). “Why Do You Blog: A Uses-and-Gratifications Inquiry into Bloggers’ Motivations.” 57th Annual Conference of the International Communication Association, San Francisco, CA, May 24-28.
-1. Ann, S. J., & **Li, D.** (2007). “Social Networking Circuit: The Interaction between College Students' Online and Offline Social Networking Activities.” Workshop on Public Practices, Social Software: Examining Social Practices in Networked Publics at the Third International Conference on
-Communities and Technologies, East Lansing, MI. June 28.
+1. Benton, S. L., & **Li, D.** (2015, April). *Course circumstances and teaching methods related to student ratings.* Paper presented at the meeting of the American Educational Research Association, Chicago.
+1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). *Internationalization of IDEA systems: Bringing IDEA to Saudi Arabia*. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice, Saudi Arabia, Tabuk.
+1. Ryalls, K. R., Benton, S. L., & **Li, D.** (2015, March). *The past, present, and future of The IDEA Center. Paper presented at the Seminar on University Measurement and Evaluation: Between Theory and Practice*, Saudi Arabia, Tabuk.
+1. Benton, S. L., **Li, D.**, & Brown, R. (2014, November). *Which teaching methods are related to student progress in introductory STEM courses?* Presentation at Association of American Colleges and Universities Transforming STEM in Higher Education Conference, Atlanta, GA.
+1. Benton, S. L., **Li, D.**, & Brown, R. (2014, August). *Teaching methods associated with student progress in first-year STEM courses*. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
+1. Benton, S. L., **Li, D.**, & Goodyear, R. K. (2014, August). *Effective leadership in the assessment of learning outcomes*. Paper presented at the meeting of the American Psychological Association, Washington, D.C.
+1. Benton, S. L., **Li, D.**, & Pallett, W. (2013, August). *In higher education, class size matters*. Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
+1. Benton, S. L., Brown, R., & **Li, D.** (2013, August). *Which learning outcomes and teaching methods are instructors really emphasizing in STEM courses?* Paper presented at the meeting of the American Psychological Association, Honolulu, Hawaii.
+1. Ryalls, K. R., **Li, D.**, & Kinzie, J. (2013, November). *Integrating IDEA Teaching Methods with NSSE’s Engagement Indicators.* Papre presented at the 38th Annual POD Conference, Pittsburg, pennsylvania. 
+1. Benton, S. L., Guo, M., **Li, D.**, & Gross, A. (2013, April). *Student ratings, teacher standards, and critical thinking skills*. Paper presented at the annual meeting of the American Educational Research Association, San Francisco, CA.
+1. Benton, S. L., Webster, R., Gross, A., & Pallett, W. H., & **Li, D.** (2013, April). *Instructor and student perceptions of course experiences in online and face-to-face classes*. Paper presented at the meeting of the American Educational Research Association, San Francisco, CA.
+1. **Li, D.** (2008, November). *By the People, For the People: Citizen Journalistic Practices on Wikinews.* Paper presented at the 94th Annual Convention of the National Communication Association, San Diego, CA.
+1. **Li, D.**, & Walejko, G. (2007, October). *Abandoned Blogs and Splogs: The Perils of Sampling Bloggers*. Paper presented at the Annual conference of the Association of Internet Researchers, Vancouver, Canada.
+1. **Li, D.** (2007, May). *Why Do You Blog: A Uses-and-Gratifications Inquiry into Bloggers’ Motivations.* Paper presented at the 57th Annual Conference of the International Communication Association, San Francisco, CA.
+1. Ann, S. J., & **Li, D.** (2007, June). *Social Networking Circuit: The Interaction between College Students' Online and Offline Social Networking Activities.* Paper presented at the Workshop on Public Practices, Social Software: Examining Social Practices in Networked Publics at the Third International Conference on Communities and Technologies, East Lansing, MI.
 
 #### Research and Technical reports
 
-1.  **Li, D.**, Benton, S. L., Brown, R., Ryalls, K. R., & Sullivan, P. (2016). IDEA Technical Report No. 19: Analysis of IDEA Student Ratings of Instruction System, 2015 Pilot Data. Manhattan, KS: The IDEA Center.
-1. Benton, S. L., & **Li, D.** (2015). IDEA Research Report No. 9, Teaching Methods Associated with Student Progress in General Education Courses. Manhattan, KS: The IDEA Center.
-1. Benton, S. L., & **Li, D.** (2015). IDEA Research Report No. 8: Validity and reliability of IDEA Teaching Essentials. Manhattan, KS: The IDEA Center.
-1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data. Manhattan, KS: The IDEA Center.
+1.  **Li, D.**, Benton, S. L., Brown, R., Ryalls, K. R., & Sullivan, P. (2016). *IDEA Technical Report No. 19: Analysis of IDEA Student Ratings of Instruction System, 2015 Pilot Data*. Manhattan, KS: The IDEA Center.
+1. Benton, S. L., & **Li, D.** (2015). *IDEA Research Report No. 9, Teaching Methods Associated with Student Progress in General Education Courses*. Manhattan, KS: The IDEA Center.
+1. Benton, S. L., & **Li, D.** (2015). *IDEA Research Report No. 8: Validity and reliability of IDEA Teaching Essentials*. Manhattan, KS: The IDEA Center.
+1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). *IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data*. Manhattan, KS: The IDEA Center.
 
 #### Editorial notes
 
-1. Ryalls, K. R., Benton, S. L., Barr, J., & **Li, D.** (2016). Response to “Bias Against Female Instructors.” The IDEA Center: Manhattan, KS.
-1. Benton, S. L., & **Li, D.** (2015). Response to “A Better Way to Evaluate Undergraduate Teaching.” The IDEA Center: Manhattan, KS.
+1. Ryalls, K. R., Benton, S. L., Barr, J., & **Li, D.** (2016). *Response to “Bias Against Female Instructors”* The IDEA Center: Manhattan, KS.
+1. Benton, S. L., & **Li, D.** (2015). *Response to “A Better Way to Evaluate Undergraduate Teaching”* The IDEA Center: Manhattan, KS.
 
 ### Research Experience
 
