@@ -43,7 +43,7 @@ Manhattan, KS 66502
 ### Conference presentations
 
 1. Benton, S. L., & **Li, D.** (2017, April). *Using large-scale student ratings of instruction to improve formative evaluation of college teaching*. Paper presented at the Annual Meeting of the National Council on Measurement in Education, San Antonio, TX.
-1. **Li, D.**, Benton, S. L., & Barr, J. (2017, April). *He effects of instructor gender on student ratings of instruction across academic disciplines..* Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
+1. **Li, D.**, Benton, S. L., & Barr, J. (2017, April). *The effects of instructor gender on student ratings of instruction across academic disciplines.* Paper presented at the Annual Meeting of the American Educational Research Association, San Antonio, TX.
 1. Glover. J., Ryalls, K. R., Benton, S. L., & **Li, D.** (2016, November). *Deep Learning: Research on High Impact Teaching Methods*. Paper presented at 2016 POD Network Conference, Louisville, KY.
 1. Benton, S. L., Ryalls, K. R., Sullivan, P., & **Li, D.** (2016, June). *Alignment of Global Outcomes for Assessment and Accreditation*. Paper presented at the 2016 Association of Institutional Research (AIR) Forum, New Orleans, LA.
 1. Benton, S. L., & **Li, D.** (2015, April). *Course circumstances and teaching methods related to student ratings.* Paper presented at the Annual Meeting of the American Educational Research Association, Chicago.
