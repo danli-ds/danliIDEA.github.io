@@ -72,6 +72,8 @@ Manhattan, KS 66502
 
 #### Research notes
 
+1. Benton, S. L., & **Li, D.**. (2017). *Validity of the IDEA Student Ratings of Instruction student characteristic items* (Research Note No. 6). Manhattan, KS: The IDEA Center.
+
 1. **Li, D.**, & Benton, S. L. (2017). *Non-response rates to individual items on the IDEA Student Ratings of Instruction forms* (Research Note No. 5). Manhattan, KS: The IDEA Center.
 
 #### Editorial notes
