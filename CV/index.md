@@ -11,8 +11,6 @@ Manhattan, KS 66502
 
 <i class="fa fa-envelope-o"></i> dan.li at IDEAedu.org
 
-<i class="fa fa-home"></i> <http://lidan.net/>
-
 ### Education
 
 - Ph.D., Media, Technology, and Society, Northwestern University, 2014
