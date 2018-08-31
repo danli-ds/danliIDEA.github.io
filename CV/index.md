@@ -64,6 +64,8 @@ Manhattan, KS 66502
 
 #### Research and technical reports
 
+1. **Li, D.**, & Benton, S. L. (2018). *IDEA Research Report No. 11: The effects of gender and Carnegie
+classification on personnel ratings of administrators and chairs*. Manhattan, KS: The IDEA Center.
 1. **Li, D.**, & Benton, S. L. (2017). *IDEA Research Report No. 10: The effects of instructor gender and discipline group on student ratings of instruction*. Manhattan, KS: The IDEA Center.
 1.  **Li, D.**, Benton, S. L., Brown, R., Ryalls, K. R., & Sullivan, P. (2016). *IDEA Technical Report No. 19: Analysis of IDEA Student Ratings of Instruction System, 2015 Pilot Data*. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., & **Li, D.** (2015). *IDEA Research Report No. 9: Teaching Methods Associated with Student Progress in General Education Courses*. Manhattan, KS: The IDEA Center.
