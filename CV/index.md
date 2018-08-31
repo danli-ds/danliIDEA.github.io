@@ -62,6 +62,9 @@ Manhattan, KS 66502
 
 #### Research and technical reports
 
+1. Archie, T., Benton, S. L., & **Li, D.** (2018). *IDEA Technical Report No. 21: Updated Technical Manual
+for the IDEA Feedback System for Chairs*. Manhattan, KS: The IDEA Center.
+1. Benton, S. L., & **Li, D.** (2018). *IDEA Technical Report No. 20: Updated Technical Manual for the IDEA Feedback System for Administrators *. Manhattan, KS: The IDEA Center.
 1. **Li, D.**, & Benton, S. L. (2018). *IDEA Research Report No. 11: The effects of gender and Carnegie
 classification on personnel ratings of administrators and chairs*. Manhattan, KS: The IDEA Center.
 1. **Li, D.**, & Benton, S. L. (2017). *IDEA Research Report No. 10: The effects of instructor gender and discipline group on student ratings of instruction*. Manhattan, KS: The IDEA Center.
