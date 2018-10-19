@@ -21,7 +21,7 @@ Manhattan, KS 66502
 
 ### Employment
 
-- Researcher | Data Analyst, The IDEA Center, 2018 ~ present
+- Researcher / Data Analyst, The IDEA Center, 2018 ~ present
 
 - Research Associate, The IDEA Center, 2011 ~ 2018
 
