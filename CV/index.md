@@ -21,7 +21,9 @@ Manhattan, KS 66502
 
 ### Employment
 
-- Research Associate, The IDEA Center, 2011 ~ present
+- Researcher | Data Analyst, The IDEA Center, 2018 ~ present
+
+- Research Associate, The IDEA Center, 2011 ~ 2018
 
 - Compliance Auditor, Kansas State University, 2011 - 2012
 
