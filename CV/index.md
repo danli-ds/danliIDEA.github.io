@@ -21,7 +21,9 @@ Manhattan, KS 66502
 
 ### Employment
 
-- Researcher / Data Analyst, The IDEA Center, 2018 ~ present
+- Researcher / Data Analyst - IDEA, 2019 ~ present
+
+- Researcher / Data Analyst, The IDEA Center, 2018 ~ 2019
 
 - Research Associate, The IDEA Center, 2011 ~ 2018
 
@@ -64,6 +66,7 @@ Manhattan, KS 66502
 
 #### Research and technical reports
 
+1. Benton, S. L., & **Li, D.** (2019). *Judging the Credibility of Quantitative Student Ratings of Instruction Research - IDEA Paper 80*. Manhattan, KS: The IDEA Center.
 1. Archie, T., Benton, S. L., & **Li, D.** (2018). *IDEA Technical Report No. 21: Updated Technical Manual
 for the IDEA Feedback System for Chairs*. Manhattan, KS: The IDEA Center.
 1. Benton, S. L., & **Li, D.** (2018). *IDEA Technical Report No. 20: Updated Technical Manual for the IDEA Feedback System for Administrators*. Manhattan, KS: The IDEA Center.
