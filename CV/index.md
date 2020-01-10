@@ -3,7 +3,6 @@ layout: page
 title: Dan Li, Ph.D.
 ---
 ### Contact Information
-The IDEA Center
 
 301 South Fourth Street, Suite 200
 
@@ -79,6 +78,8 @@ classification on personnel ratings of administrators and chairs*. Manhattan, KS
 1. Benton, S. L., **Li, D.**, Brown, R., Guo, M., & Sullivan, P. (2015). *IDEA Technical Report No. 18: Revising the IDEA Student Ratings of Instruction System, 2002-2011 Data*. Manhattan, KS: The IDEA Center.
 
 #### Research notes
+
+1. **Li, D.**., & Benton, S. L. (2019). *Teaching Methods Associated with Teacher Clarity* (Research Note No. 7). Manhattan, KS: The IDEA Center.
 
 1. Benton, S. L., & **Li, D.**. (2017). *Validity of the IDEA Student Ratings of Instruction student characteristic items* (Research Note No. 6). Manhattan, KS: The IDEA Center.
 
